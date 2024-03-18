@@ -10,7 +10,7 @@ function NavBar({ user }) {
                     &nbsp; | &nbsp; 
                     <Link to="/actors">Actors</Link>
                     &nbsp; | &nbsp;
-                    Welcome {user}
+                    Welcome, {user}
                 </nav>
                 :
                 <></>
